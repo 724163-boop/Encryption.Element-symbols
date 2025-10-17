@@ -1,5 +1,3 @@
-# Encryption.Element-symbols
-Encryption.Element symbols
 # 元素記号のリスト
 elements = [
     "H", "He", "Li", "Be", "B", "C", "N", "O", "F", "Ne",
